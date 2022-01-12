@@ -1,0 +1,12 @@
+/home/zfaizal/Projects/exchange_booth_skeleton/program/target/rls/debug/deps/base64-d606bb74ff8a9b1b.rmeta: /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/lib.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/chunked_encoder.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/display.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/tables.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/mod.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/encoder.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/encode.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/decode.rs
+
+/home/zfaizal/Projects/exchange_booth_skeleton/program/target/rls/debug/deps/base64-d606bb74ff8a9b1b.d: /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/lib.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/chunked_encoder.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/display.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/tables.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/mod.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/encoder.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/encode.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/decode.rs
+
+/home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/lib.rs:
+/home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/chunked_encoder.rs:
+/home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/display.rs:
+/home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/tables.rs:
+/home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/mod.rs:
+/home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/encoder.rs:
+/home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/encode.rs:
+/home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/decode.rs:

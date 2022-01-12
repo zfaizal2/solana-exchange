@@ -1,0 +1,11 @@
+/home/zfaizal/Projects/exchange_booth_skeleton/program/target/rls/debug/deps/libjsonrpc_derive-2c5fdf9f8e8cac24.so: /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-18.0.0/src/lib.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-18.0.0/src/options.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-18.0.0/src/params_style.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-18.0.0/src/rpc_attr.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-18.0.0/src/rpc_trait.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-18.0.0/src/to_client.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-18.0.0/src/to_delegate.rs
+
+/home/zfaizal/Projects/exchange_booth_skeleton/program/target/rls/debug/deps/jsonrpc_derive-2c5fdf9f8e8cac24.d: /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-18.0.0/src/lib.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-18.0.0/src/options.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-18.0.0/src/params_style.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-18.0.0/src/rpc_attr.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-18.0.0/src/rpc_trait.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-18.0.0/src/to_client.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-18.0.0/src/to_delegate.rs
+
+/home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-18.0.0/src/lib.rs:
+/home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-18.0.0/src/options.rs:
+/home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-18.0.0/src/params_style.rs:
+/home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-18.0.0/src/rpc_attr.rs:
+/home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-18.0.0/src/rpc_trait.rs:
+/home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-18.0.0/src/to_client.rs:
+/home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-derive-18.0.0/src/to_delegate.rs:

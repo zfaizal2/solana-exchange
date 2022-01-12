@@ -1,0 +1,11 @@
+/home/zfaizal/Projects/exchange_booth_skeleton/program/target/rls/debug/deps/futures_core-510cc45d8663075e.rmeta: /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/lib.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/future.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/stream.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/mod.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/poll.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/__internal/mod.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/__internal/atomic_waker.rs
+
+/home/zfaizal/Projects/exchange_booth_skeleton/program/target/rls/debug/deps/futures_core-510cc45d8663075e.d: /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/lib.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/future.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/stream.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/mod.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/poll.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/__internal/mod.rs /home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/__internal/atomic_waker.rs
+
+/home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/lib.rs:
+/home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/future.rs:
+/home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/stream.rs:
+/home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/mod.rs:
+/home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/poll.rs:
+/home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/__internal/mod.rs:
+/home/zfaizal/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/__internal/atomic_waker.rs:
