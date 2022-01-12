@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/zfaizal/Projects/exchange_booth_skeleton/program/target/rls/debug/build/typenum-d2b77880758bcf06/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/home/zfaizal/Projects/exchange_booth_skeleton/program/target/rls/debug/build/typenum-d2b77880758bcf06/out/op.rs
